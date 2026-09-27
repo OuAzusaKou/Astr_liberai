@@ -1,0 +1,17 @@
+{
+  "annotation_source": "/share-2/code/chenqi/robodojo/final_clean_20260902/episodes/task_22/episode_002200.json",
+  "video_source": "/share-2/home/vla/yulonglu/data/RoboDojo/RoboDojo_lerobot_v21_video/videos/chunk-002/observation.images.cam_high/episode_002200.mp4",
+  "frames": [
+    0,
+    33,
+    122,
+    174
+  ],
+  "image_size": [
+    480,
+    640
+  ],
+  "bbox_augmentation": false,
+  "rendering": "matplotlib overlay of exact annotation coordinates on decoded original frames",
+  "handover_note": "At stage-start frame 33, annotated box does not enclose the charger; interpreting it as a handover target region is a visual inference."
+}
